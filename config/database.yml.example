@@ -1,0 +1,6 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  socket: /tmp/mysql.sock
+  database: YOUR_DATABASE
+  username: root

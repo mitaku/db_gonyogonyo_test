@@ -1,0 +1,3 @@
+config/database.yml
+app/models/*.rb
+Schemafile
