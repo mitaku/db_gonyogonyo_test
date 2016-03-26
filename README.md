@@ -44,3 +44,7 @@ app/models配下に作られる
 ### consoleでイジる
 
 `bundle exec ruby script/console.rb`
+
+
+## note
+* Modelをジェネレートした時に`table_name`書いたほうがいいかもな...
